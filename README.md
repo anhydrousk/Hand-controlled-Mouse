@@ -1,1 +1,1 @@
-# Hand-controlled-cursor
+# Hand-controlled-Mouse
